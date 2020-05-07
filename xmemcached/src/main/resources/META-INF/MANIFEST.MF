@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1588816459582
+Build-Jdk: 1.8.0_202
+Built-By: xmemcached
+Bundle-ManifestVersion: 2
+Bundle-Name: xmemcached
+Bundle-SymbolicName: xmemcached
+Bundle-Version: 2.4.6
+Created-By: Apache Maven Bundle Plugin
+Export-Package: net.rubyeye.xmemcached;version="2.4.6"
+Import-Package: javax.management,javax.management.remote,javax.security.
+ auth.callback,javax.security.sasl
+Tool: Bnd-3.5.0.201709291849
